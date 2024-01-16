@@ -18,7 +18,7 @@ namespace MyAkademiECommerce.Discount.Context
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-40G2DNI\\SQLEXPRESS;initial Catalog=ECommerceDiscountDb;integrated Security=True");
+            optionsBuilder.UseSqlServer("Server=DESKTOP-40G2DNI\\SQLEXPRESS;initial Catalog=ECommerceDiscountDb;integrated Security=True;");
         }
         public DbSet<Coupon> Coupons { get; set; }
 

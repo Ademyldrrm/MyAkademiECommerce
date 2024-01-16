@@ -67,3 +67,8 @@ C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkadem
 C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkademiECommerce.Discount\obj\Debug\net6.0\MyAkademiECommerce.Discount.pdb
 C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkademiECommerce.Discount\obj\Debug\net6.0\MyAkademiECommerce.Discount.genruntimeconfig.cache
 C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkademiECommerce.Discount\obj\Debug\net6.0\ref\MyAkademiECommerce.Discount.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkademiECommerce.Discount\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkademiECommerce.Discount\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkademiECommerce.Discount\bin\Debug\net6.0\Dapper.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkademiECommerce.Discount\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Discount\MyAkademiECommerce.Discount\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
