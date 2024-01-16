@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAkademiECommerce.Services
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cargo", "Cargo", "{535D1DB8-7F19-4C9F-860A-DF2624F07B8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAkademiECommerce.Shared", "Shared\MyAkademiECommerce.Shared\MyAkademiECommerce.Shared.csproj", "{365E6394-0505-4F02-A981-7C4BE10C67C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAkademiECommerce.Shared", "Shared\MyAkademiECommerce.Shared\MyAkademiECommerce.Shared.csproj", "{365E6394-0505-4F02-A981-7C4BE10C67C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAkademiECommerce.Discount", "Services\Discount\MyAkademiECommerce.Discount\MyAkademiECommerce.Discount.csproj", "{D7067979-E1D2-4878-9FC6-11DFE22B8AAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{365E6394-0505-4F02-A981-7C4BE10C67C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{365E6394-0505-4F02-A981-7C4BE10C67C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{365E6394-0505-4F02-A981-7C4BE10C67C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7067979-E1D2-4878-9FC6-11DFE22B8AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7067979-E1D2-4878-9FC6-11DFE22B8AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7067979-E1D2-4878-9FC6-11DFE22B8AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7067979-E1D2-4878-9FC6-11DFE22B8AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{9EF6CAD7-1E99-47BD-B120-B220F3477325} = {C10CC5AA-B2F0-4426-AC07-C8A9B3ADBF6E}
 		{535D1DB8-7F19-4C9F-860A-DF2624F07B8F} = {D0A2F2C2-6797-4FF1-9751-D7E18C8AA919}
 		{365E6394-0505-4F02-A981-7C4BE10C67C1} = {39B6DECF-DA88-476D-AF16-993DF8F9D0D1}
+		{D7067979-E1D2-4878-9FC6-11DFE22B8AAE} = {27E88556-3CD5-4597-A74E-9CFEA61B8B00}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {50449965-FF5C-4D0F-B2DA-6281F9F6D4B4}

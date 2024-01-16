@@ -1,0 +1,12 @@
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\bin\Debug\net6.0\MyAkademiECommerce.Shared.deps.json
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\bin\Debug\net6.0\MyAkademiECommerce.Shared.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\bin\Debug\net6.0\MyAkademiECommerce.Shared.pdb
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\MyAkademiECommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\MyAkademiECommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\MyAkademiECommerce.Shared.AssemblyInfo.cs
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\MyAkademiECommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\MyAkademiECommerce.Shared.sourcelink.json
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\MyAkademiECommerce.Shared.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\refint\MyAkademiECommerce.Shared.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\MyAkademiECommerce.Shared.pdb
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Shared\MyAkademiECommerce.Shared\obj\Debug\net6.0\ref\MyAkademiECommerce.Shared.dll
