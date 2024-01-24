@@ -1,0 +1,16 @@
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.csproj.AssemblyReference.cache
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.AssemblyInfoInputs.cache
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.AssemblyInfo.cs
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.sourcelink.json
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\bin\Debug\net6.0\MyAkademiECommerce.Order.Application.deps.json
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\bin\Debug\net6.0\MyAkademiECommerce.Order.Application.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\bin\Debug\net6.0\MyAkademiECommerce.Order.Application.pdb
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\bin\Debug\net6.0\MyAkademiECommerce.Order.Domain.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\bin\Debug\net6.0\MyAkademiECommerce.Order.Domain.pdb
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.csproj.CopyComplete
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\refint\MyAkademiECommerce.Order.Application.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\MyAkademiECommerce.Order.Application.pdb
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Application\obj\Debug\net6.0\ref\MyAkademiECommerce.Order.Application.dll

@@ -7,10 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Mediator\Commands\" />
-    <Folder Include="Features\Mediator\Handlers\" />
-    <Folder Include="Features\Mediator\Queries\" />
-    <Folder Include="Features\Mediator\Results\" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 
   <ItemGroup>

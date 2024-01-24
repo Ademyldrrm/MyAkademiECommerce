@@ -1,0 +1,12 @@
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\bin\Debug\net6.0\MyAkademiECommerce.Order.Domain.deps.json
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\bin\Debug\net6.0\MyAkademiECommerce.Order.Domain.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\bin\Debug\net6.0\MyAkademiECommerce.Order.Domain.pdb
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\MyAkademiECommerce.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\MyAkademiECommerce.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\MyAkademiECommerce.Order.Domain.AssemblyInfo.cs
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\MyAkademiECommerce.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\MyAkademiECommerce.Order.Domain.sourcelink.json
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\MyAkademiECommerce.Order.Domain.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\refint\MyAkademiECommerce.Order.Domain.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\MyAkademiECommerce.Order.Domain.pdb
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Order\Core\MyAkademiECommerce.Order.Domain\obj\Debug\net6.0\ref\MyAkademiECommerce.Order.Domain.dll
