@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyAkademiECommerce.Order.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dbd215c4df5337fc1d94e36dd8766a4094afb93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+526d850b7ba64f5e9753cb07fa1a74b3c1a979fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyAkademiECommerce.Order.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyAkademiECommerce.Order.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

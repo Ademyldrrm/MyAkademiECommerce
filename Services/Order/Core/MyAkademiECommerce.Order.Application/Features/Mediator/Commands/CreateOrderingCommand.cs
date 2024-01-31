@@ -14,6 +14,6 @@ namespace MyAkademiECommerce.Order.Application.Features.Mediator.Commands
         public string UserID { get; set; }
         public decimal TotalPrice { get; set; }
         public DateTime OrderDate { get; set; }
-        public List<OrderDetail> OrderDetails { get; set; }
+       
     }
 }

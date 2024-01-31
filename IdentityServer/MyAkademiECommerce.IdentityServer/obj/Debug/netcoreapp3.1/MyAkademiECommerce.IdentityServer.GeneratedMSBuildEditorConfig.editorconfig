@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MyAkademiECommerce.IdentityServer
+build_property.ProjectDir = C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\IdentityServer\MyAkademiECommerce.IdentityServer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
