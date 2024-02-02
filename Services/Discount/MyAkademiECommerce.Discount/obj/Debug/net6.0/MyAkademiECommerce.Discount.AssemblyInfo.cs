@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyAkademiECommerce.Discount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44493347febd8e842b6ac84f34dd756652ae271c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+236c53f75eec66d23275768fd30ed9b736566484")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyAkademiECommerce.Discount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyAkademiECommerce.Discount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

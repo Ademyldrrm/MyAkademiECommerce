@@ -46,3 +46,11 @@ C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademi
 C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\obj\Debug\net6.0\MyAkademiECommerce.Services.Catalog.genruntimeconfig.cache
 C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\obj\Debug\net6.0\ref\MyAkademiECommerce.Services.Catalog.dll
 C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AdemYildirim\source\repos\MyAkademiECommerce\Services\Catalog\MyAkademiECommerce.Services.Catalog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
