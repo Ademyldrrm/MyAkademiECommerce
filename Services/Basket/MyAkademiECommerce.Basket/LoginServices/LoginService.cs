@@ -9,6 +9,6 @@
             _contextAccessor = contextAccessor;
         }
 
-        public string GetUserId => _contextAccessor.HttpContext.User.FindFirst("Sub").Value;
+        public string GetUserId => _contextAccessor.HttpContext.User.FindFirst("sub").Value;
     }
 }
